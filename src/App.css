@@ -1,0 +1,25 @@
+.form-container{
+  margin-left: 37.5%;
+  margin-top: 10%;
+  width: 25%;
+  background: rgb(251,166,58);
+  background: linear-gradient(221deg, rgba(251,166,58,1) 0%, rgba(6,133,147,1) 100%);
+  text-align: center;
+  border-radius: 10px;
+  border: 1px solid black;
+}
+
+h1{
+  text-align: center;
+}
+
+#confirmation-message{
+  text-align: center;
+  color: green;
+  display: none;
+}
+
+body{
+  background-color: #edbaa8;
+}
+
